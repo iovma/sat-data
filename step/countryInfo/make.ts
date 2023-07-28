@@ -5,8 +5,4 @@ console.log(columns)
 
 const file = await Deno.readTextFile("countryInfo.xml")
 const data = parseCountryInfo(file)
-const tsv = data.map(datum =>
-    columns.map(column => datum[column] || "").join("\t")
-).join("\n")
-
-Deno.writeTextFile( "countryInfo.tsv", tsv )
+Deno.writeTextFile( "countryInfo.json", JSON.stringify(data))
