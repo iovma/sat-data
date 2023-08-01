@@ -22,7 +22,9 @@ jobs:
           deno-version: v1.x
     
       - name: Build dist
-        run: deno run -A build.ts
+        run: |
+          mkdir dist
+          deno run -A build.ts
       
       - name: Push dist
         run: |
