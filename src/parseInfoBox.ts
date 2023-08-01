@@ -1,3 +1,5 @@
+import { getCountryCode } from "./getCountryCode.ts"
+
 export const clean = (text: string) => {
     return text
         .replace(/\[\[.*?\|([^\[]*?)\]\]/g, "$1")           // [[...|...]]
@@ -14,6 +16,7 @@ export const clean = (text: string) => {
         .replace(/{{국기나라\|(.*?)}}/g, "$1")
         .replace(/{{국호\|(.*?)}}/g, "$1")
         .replace(/{{rb\|(.*?)\|.*?}}/gi, "$1")
+        .replace(/{{글씨 크기\|.*?\|(.*?)}}/gi, "$1")                             // 피페레.나라_표어_설명
         .replace(/&lt;small&gt;(.*?)&lt;\/small&gt;/gi, "($1)")
         .replace(/\(\((.*?)\)\)/g, "($1)")
         .replace(/&lt;br&gt;/gi, ", ")
@@ -21,6 +24,12 @@ export const clean = (text: string) => {
         .replace(/&lt;!--.*?--&gt;/g, "")                   // <!-- ... -->
         .replace(/&lt;ref.*?&gt;.*?&lt;\/ref&gt;/gi, "")    // <ref ...>...</ref>
         .replace(/{{국기그림\|.*?}}/g, "")                   // 국기 이미지
+
+        .replace(/{{국가코드\|(.*?)}}/g, t => {
+            const name = /{{국가코드\|(.*?)}}/.exec(t)![1]
+            console.log(name, getCountryCode(name))
+            return getCountryCode(name) || ""
+        })
 }
 
 export function parseInfoBox(name: string, str: string) {
