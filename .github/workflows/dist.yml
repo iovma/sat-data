@@ -1,4 +1,4 @@
-name: Deno
+name: Dist
 
 on:
   push:
@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git branch
           git checkout dist
           git add dist
           git commit -m "Dist: ${{ github.event.commits[0].message }}" || true
