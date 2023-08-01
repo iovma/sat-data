@@ -6,5 +6,7 @@ await Promise.all(Object.entries(cats).map(async function([cat, templateName]) {
         templateName,
         await Deno.readTextFile(`dist/${cat}.xml`)
     )
-    await Deno.writeTextFile(`dist/${cat}.json`, JSON.stringify(data))
+    const text = JSON.stringify(data)
+    console.log("Output Length:", text.length)
+    await Deno.writeTextFile(`dist/${cat}.json`, text)
 }))
