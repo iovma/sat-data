@@ -1,11 +1,10 @@
-const regEx = {
-    prop: /^\| *([^=]+?) *= *(.*)$/,
-    countryInfoStart: /\{\{나라 정보 *$/,
-    countryInfoEnd: /^ *\}\} */,
-    comment: /^&lt;!--.*--&gt;$/,
-}
-
-export function parseCountryInfo(str: string) {
+export function parseInfoBox(name: string, str: string) {
+    const regEx = {
+        prop: /^\| *([^=]+?) *= *(.*)$/,
+        countryInfoStart: RegExp(`\\\{\\\{${name} *$`),
+        countryInfoEnd: /^ *\}\} */,
+        comment: /^&lt;!--.*--&gt;$/,
+    }
     const result: Record<string, string>[]  = []
     let foo: Record<string, string> = {}
     let isInside = false
