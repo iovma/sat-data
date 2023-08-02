@@ -15,5 +15,5 @@ await Promise.all(Object.entries(cats).map(async function([cat]) {
             columnsArray.map(x=>row[x] || "").join("\t")
         ).join("\n")
 
-    await Deno.writeTextFile(`dist/${cat}.tsv`, result)
+    await Deno.writeTextFile(`dist/${cat}.tsv`, "\ufeff"+result)
 }))
