@@ -12475,17 +12475,17 @@ b에서는 병렬관계가 목적어&lt;small&gt;(ye)&lt;/small&gt;에서 일어
     <ns>0</ns>
     <id>3878</id>
     <revision>
-      <id>25776</id>
-      <parentid>25775</parentid>
-      <timestamp>2023-07-16T03:30:22Z</timestamp>
+      <id>26692</id>
+      <parentid>25776</parentid>
+      <timestamp>2023-08-02T03:02:19Z</timestamp>
       <contributor>
         <username>Kuruku</username>
         <id>53</id>
       </contributor>
-      <origin>25776</origin>
+      <origin>26692</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="5963" sha1="hauqmungjd1dew6oq6ykt9h193716vj" xml:space="preserve">{{셰스카테 문화}}
+      <text bytes="5966" sha1="h9745i6oad3isdjnnbvk9gppdixtt5l" xml:space="preserve">{{셰스카테 문화}}
 {{언어 정보
 | 이름 = 셰스카테어
 | 자기이름 = F'Scheskatté
@@ -12587,7 +12587,7 @@ b에서는 병렬관계가 목적어&lt;small&gt;(ye)&lt;/small&gt;에서 일어
 | v = v
 | s = c/s
 | e8 = .
-| ʃ = x/sh/sch
+| ʃ = x/sh/sch/sj
 | e10 = .
 | e15 = .
 | e16 = .
@@ -12849,7 +12849,7 @@ b에서는 병렬관계가 목적어&lt;small&gt;(ye)&lt;/small&gt;에서 일어
 * [[셰스카테]]
 
 == 각주 ==</text>
-      <sha1>hauqmungjd1dew6oq6ykt9h193716vj</sha1>
+      <sha1>h9745i6oad3isdjnnbvk9gppdixtt5l</sha1>
     </revision>
   </page>
   <page>

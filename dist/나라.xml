@@ -35217,17 +35217,17 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
     <ns>0</ns>
     <id>4411</id>
     <revision>
-      <id>26609</id>
-      <parentid>26608</parentid>
-      <timestamp>2023-07-28T09:22:03Z</timestamp>
+      <id>26696</id>
+      <parentid>26695</parentid>
+      <timestamp>2023-08-02T08:21:34Z</timestamp>
       <contributor>
         <username>Kuruku</username>
         <id>53</id>
       </contributor>
-      <origin>26609</origin>
+      <origin>26696</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2886" sha1="bxrv1y8f8z4ectmoupp3ykonlkv5d5k" xml:space="preserve">{{셰스카테 문화}}
+      <text bytes="3008" sha1="fb4cecmn3r5pcgsx7jbtnunugg9ls6z" xml:space="preserve">{{셰스카테 문화}}
 {{라졔르베라 문화}}
 
 {{나라 정보
@@ -35322,8 +35322,8 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
 | 당색배경 =
 | 경제체제 =
 | 통화 =
-| 통화기호 =
-| 기년법 =
+| 통화기호 = 셰스카테 아비실&lt;br&gt;라졔르베라 아쥬비실
+| 기년법 = 자소크력
 | 시간대 =
 | 도량형 =
 | 날짜형식 =
@@ -35331,8 +35331,8 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
 | 수교국 =
 | 외교문서 =
 | 숫자코드 =
-| 2자코드 =
-| 3자코드 = 
+| 2자코드 = RE
+| 3자코드 = {{국가코드|레체테베카인로스 자치국}}
 | 한자약칭 = 大沙自
 | 한자음 = 대사자
 }}
@@ -35344,7 +35344,7 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
 
 == 도보게 ==
 === 각주 ===</text>
-      <sha1>bxrv1y8f8z4ectmoupp3ykonlkv5d5k</sha1>
+      <sha1>fb4cecmn3r5pcgsx7jbtnunugg9ls6z</sha1>
     </revision>
   </page>
   <page>
@@ -37713,23 +37713,23 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
     <ns>0</ns>
     <id>4635</id>
     <revision>
-      <id>26680</id>
-      <parentid>26679</parentid>
-      <timestamp>2023-08-01T05:11:38Z</timestamp>
+      <id>26694</id>
+      <parentid>26693</parentid>
+      <timestamp>2023-08-02T07:52:18Z</timestamp>
       <contributor>
         <username>Kuruku</username>
         <id>53</id>
       </contributor>
-      <origin>26680</origin>
+      <origin>26694</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3317" sha1="m5x6m4h3sgb8jindoe0ltgkmwiau5nk" xml:space="preserve">{{셰스카테 문화}}
+      <text bytes="3484" sha1="ka3eq6m9indoa70vbe3nwv0zfuucdpf" xml:space="preserve">{{셰스카테 문화}}
 {{라졔르베라 문화}}
 
 {{나라 정보
 | 기여자 = 쿠루쿠
 | 현지이름 = Poloneissizergiretné Reçetevequeinlos 
-| 다른표기 = 
+| 다른표기 = Myhitutaÿr die Reçetevequainlos
 | 나라이름 = 레체테베카인로스 보호령
 | 국기_그림 = 레체테베카인로스 보호령 국기.png
 | 문장_그림 = 셰스카테 국장-001-removebg-preview (1).png
@@ -37846,9 +37846,13 @@ ISR 제도는 [[시메타시스]] 붕괴 이후 [[시메타시스]] 전역에서
 
 사람들은 "이게 뭐냐", "[[라졔르베라]]를 옹호하는거냐"라는 반응이 오가고 있다.
 
+=== 국가 ===
+
+[[셰스카테]]의 괴뢰정부인 만큼 셰스카테의 국가인 [[승리를 향해 나아가리라]]를 쓴다.
+
 == 도보게 ==
 === 각주 ===</text>
-      <sha1>m5x6m4h3sgb8jindoe0ltgkmwiau5nk</sha1>
+      <sha1>ka3eq6m9indoa70vbe3nwv0zfuucdpf</sha1>
     </revision>
   </page>
 </mediawiki>
