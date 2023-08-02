@@ -37,7 +37,7 @@ export const clean = (text: string, key: string) => {
         })
         
         .replace(/'/g, key == "수도위치" ? `′`/* prime */ : `'`)
-        .replace(/"/g, key == "수도위치" ? `″`/* double prime */ : `"`)
+        .replace(/"/g, key == "수도위치" ? `″`/* double prime */ : `'`)
 
         // deno-lint-ignore no-regex-spaces
         .replace(/  |\t/g, " ")
