@@ -34,6 +34,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git branch
           git switch dist
-          git add --force dist
+          rm dist/*
+          git add dist
           git commit -m "Dist: ${{ github.event.commits[0].message }}" || true
           git push origin dist
