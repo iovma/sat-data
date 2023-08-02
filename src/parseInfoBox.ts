@@ -1,6 +1,6 @@
 import { getCountryCode } from "./getCountryCode.ts"
 
-export const clean = (text: string) => {
+export const clean = (text: string, key: string) => {
     if(text.includes("\t")) console.log(text)
     return text
         .replace(/\[\[[^\[]*?\|([^\[]*?)\]\]/g, "$1")           // [[...|...]]
@@ -35,6 +35,9 @@ export const clean = (text: string) => {
             console.log(name, getCountryCode(name))
             return getCountryCode(name) || ""
         })
+        
+        .replace(/'/g, key == "수도위치" ? `′`/* prime */ : `'`)
+        .replace(/"/g, key == "수도위치" ? `″`/* double prime */ : `"`)
 
         // deno-lint-ignore no-regex-spaces
         .replace(/  |\t/g, " ")
@@ -62,7 +65,7 @@ export function parseInfoBox(name: string, str: string) {
             } else if (regEx.prop.test(line)) {
                 const [_, key, value] = regEx.prop.exec(line)!
                 if (value != "") {
-                    foo[key] = clean(value)
+                    foo[key] = clean(value, key)
                 }
             } else if (regEx.comment.test(line)) {
                 //
