@@ -26,15 +26,17 @@ jobs:
       - name: Build dist
         run: |
           mkdir dist
-          rm dist/*
           deno run -A build.ts
       
       - name: Push dist
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git branch
+          git add -f dist
+          git stash
           git switch dist
-          git add dist
+          git rm dist/*
+          git stash apply
+          git add .
           git commit -m "Dist: ${{ github.event.commits[0].message }}" || true
           git push origin dist
