@@ -1,4 +1,6 @@
 #
+##
+[데이터 보기](https://github.com/iovma/sat-data/tree/dist)
 ## 
 1차 목표: `나라`, `언어`, `도시`
 ```
