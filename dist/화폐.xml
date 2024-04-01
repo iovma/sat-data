@@ -37,37 +37,93 @@
     <ns>0</ns>
     <id>2397</id>
     <revision>
-      <id>24690</id>
-      <parentid>24689</parentid>
-      <timestamp>2023-05-17T05:03:40Z</timestamp>
+      <id>29729</id>
+      <parentid>28486</parentid>
+      <timestamp>2024-03-09T03:49:28Z</timestamp>
       <contributor>
         <username>Junhg0211</username>
         <id>1</id>
       </contributor>
-      <origin>24690</origin>
+      <origin>29729</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1527" sha1="mwpo3fir147ag52y7z3i8miukmzdwpo" xml:space="preserve">{{자소크}}
+      <text bytes="2733" sha1="3dvwqq2lx7s6v785rqt36xtb276fg8z" xml:space="preserve">{{자소크}}
 
 {{화폐 정보
 | 이름 = 자소크 테로
-| 원어 = Tero dé Zasoque
+| 원어 =   
 | 사진 = 
 | 코드 = ZST
-| 중앙은행 = 관리청 금부
+| 중앙은행 = 관리청 금부 [[자소크은행]]
 | 사용국 = {{국호|자소크 철학단}}&lt;br&gt;{{국호|아마야스 주 정부}}&lt;br&gt;{{국호|모하지 공화국}}
-| 기호 = Ŧ
+| 기호 = Ŧ, 
 | 단위 = Ŧ1⁄64, Ŧ1⁄16, Ŧ1⁄4&lt;br&gt;Ŧ1, Ŧ2, Ŧ5, Ŧ10, Ŧ50, Ŧ100
 | 인쇄처 = 
 | 조폐국 = 
 }}
 
-[[자소크 테로]]&lt;small&gt;(Tero (dé Zasoque), Zasotero)&lt;/small&gt;는 [[자소크 철학단]]과 [[아마야스 주]], [[모하지 공화국]]에서 사용되는 화폐이다. 기호는 Ŧ이다.
+[[자소크 테로]]&lt;small&gt;(Ŧero (dé Zasoque), Zasoŧero)&lt;/small&gt;는 [[자소크 철학단]]과 [[아마야스 주]], [[모하지 공화국]]에서 사용되는 화폐이다. 기호는 Ŧ이다.
 [[테로]]라는 이름은 자소크어에서 모임&lt;ref&gt;community&lt;/ref&gt;을 뜻하는 단어 Extelo에서 유래했다고 전해진다.
 
 테로는 발행 초기부터 수량을 분수로 표기했는데, 따라서 1테로 이하의 단위는 4의 거듭제곱의 역수 형태로 액면가가 정해진다. 따라서 표현할 때에는 Ŧ1.75가 아니라 Ŧ1&lt;wbr&gt;3⁄4와 같은 식으로 표현된다.
 
+테로를 나타내는 자소크어는 Ŧero인데, 이 단어는 자소크어에서 Ŧ의 유일한 사용례이다.
+
 메타적으로 1테로는 1유로나 1달러 정도의 가치를 가지고 있는 것으로 여겨진다.&lt;ref&gt;5200년&lt;/ref&gt;
+
+== 권종 ==
+
+=== 동전 ===
+
+{| class="wikitable"
+! 액면가
+! style="width: 200px;" | 도안 (앞)
+! style="width: 200px;" | 도안 (뒤)
+|-
+| Ŧ1⁄64
+| [[파일:64분테로앞면.png]]
+| [[파일:64분테로뒷면.png]]
+|-
+| Ŧ1⁄16
+| [[파일:16분테로앞면.png]]
+| [[파일:16분테로뒷면.png]]
+|-
+| Ŧ1⁄4
+| [[파일:4분테로앞면.png]]
+| [[파일:4분테로뒷면.png]]
+|}
+
+=== 지폐 ===
+
+{| class="wikitable"
+! 액면가
+! style="width: 400px;" | 도안
+! 크기
+|-
+! Ŧ1
+| [[파일:1 테로 앞면.png]][[파일:1 테로 뒷면.png]]
+| 129 mm × 64 mm
+|-
+! Ŧ2
+| [[파일:2 테로 앞면.png]][[파일:2 테로 뒷면.png]]
+| 134 mm × 64 mm
+|-
+! Ŧ5
+| [[파일:5 테로 앞면.png]][[파일:5 테로 뒷면.png]]
+| 138 mm × 64 mm
+|-
+! Ŧ10
+| [[파일:10 테로 앞면.png]][[파일:10 테로 뒷면.png]]
+| 143 mm × 64 mm
+|-
+! Ŧ50
+| [[파일:50 테로 앞면.png]][[파일:50 테로 뒷면.png]]
+| 147 mm × 64 mm
+|-
+! Ŧ100
+| [[파일:100 테로 앞면.png]][[파일:100 테로 뒷면.png]]
+| 152 mm × 64 mm
+|}
 
 == 위세 ==
 
@@ -80,7 +136,7 @@
 
 == 각주 ==
 [[분류:화폐]]</text>
-      <sha1>mwpo3fir147ag52y7z3i8miukmzdwpo</sha1>
+      <sha1>3dvwqq2lx7s6v785rqt36xtb276fg8z</sha1>
     </revision>
   </page>
   <page>
@@ -154,18 +210,18 @@
     <ns>0</ns>
     <id>3045</id>
     <revision>
-      <id>18678</id>
-      <parentid>15265</parentid>
-      <timestamp>2022-11-23T16:23:26Z</timestamp>
+      <id>28526</id>
+      <parentid>18678</parentid>
+      <timestamp>2024-01-20T16:35:50Z</timestamp>
       <contributor>
-        <username>김현제</username>
-        <id>15</id>
+        <username>Ligioni</username>
+        <id>43</id>
       </contributor>
-      <comment>/* 각주 */</comment>
-      <origin>18678</origin>
+      <comment>/* 도안 */</comment>
+      <origin>28526</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="7748" sha1="46ab7n153v0tgfy9d96o5tytzpb60xp" xml:space="preserve">{{피페레 제국}}
+      <text bytes="7876" sha1="6vnc33hu6d78z3xxksmdnu2t5sjiq3g" xml:space="preserve">{{피페레 제국}}
 {{피페레 사이드바}}
 
 {{화폐 정보
@@ -223,6 +279,14 @@
 
 일반 테테르 단위의 도안은 달의 위상변화에 따른 모양으로 되어있다. 각 모양은 단순하지만 패턴을 넣어 보안요소를 추가하였다.
 
+{| class="wikitable"
+|+ 테테르의 공통 도안
+|-
+! 뒷면
+|-
+| [[파일:피페레 테테르 뒷면 도안.png|350px]] 
+|}
+
 ==역사==
 == 도보게 ==
 
@@ -230,7 +294,7 @@
 
 ==각주==
 [[분류:화폐]]</text>
-      <sha1>46ab7n153v0tgfy9d96o5tytzpb60xp</sha1>
+      <sha1>6vnc33hu6d78z3xxksmdnu2t5sjiq3g</sha1>
     </revision>
   </page>
   <page>
@@ -1894,18 +1958,17 @@
     <ns>0</ns>
     <id>4588</id>
     <revision>
-      <id>26443</id>
-      <parentid>26442</parentid>
-      <timestamp>2023-07-24T00:44:50Z</timestamp>
+      <id>29126</id>
+      <parentid>29109</parentid>
+      <timestamp>2024-02-20T09:07:05Z</timestamp>
       <contributor>
         <username>Rainykaya</username>
         <id>13</id>
       </contributor>
-      <comment>/* 사용국 */</comment>
-      <origin>26443</origin>
+      <origin>29126</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3097" sha1="ae3grfjces5vi8wf37spxusap819kcu" xml:space="preserve">{{AR 그룹}}
+      <text bytes="3212" sha1="8m6ssj4k7kkwp2b87hho8vm4lsylur3" xml:space="preserve">{{AR 그룹}}
 {{AR 그룹 사이드바}}
 
 {{화폐 정보
@@ -1914,7 +1977,7 @@
 | 사진 = 
 | 코드 = ARR
 | 중앙은행 = [[AR 그룹]] 각 회사의 은행
-| 사용국 = &lt;b&gt;공식 통화&lt;/b&gt;&lt;br&gt;{{국호|AR 그룹}}&lt;br&gt;- {{국호|AR 베센}}&lt;br&gt;- {{국호|AR 나지에셔트}}&lt;br&gt;- {{국호|AR 에르뎀}}&lt;br&gt;- {{국호|AR 오닉서커트}}&lt;br&gt;- {{국호|AR 세요짐}}&lt;br&gt;- {{국호|AR 일몰 제도}}&lt;br&gt;- {{국호|AR 프레니처}}&lt;br&gt;- {{국호|AR 세르네데}}&lt;br&gt;- {{국호|AR 헤브녀트}}&lt;br&gt;{{국호|셰헤카사 제도}}&lt;br&gt;{{국호|사흐러이스탄 부족연맹}}&lt;br&gt;{{국호|칼르신 공화국}}&lt;br&gt;{{국호|셰스카테}} [[포투]] 주&lt;br&gt;&lt;b&gt;비공식 통화&lt;/b&gt;
+| 사용국 = &lt;b&gt;공식 통화&lt;/b&gt;&lt;br&gt;{{국호|AR 그룹}}&lt;br&gt;- {{국호|AR 베센}}&lt;br&gt;- {{국호|AR 나지에셔트}}&lt;br&gt;- {{국호|AR 에르뎀}}&lt;br&gt;- {{국호|AR 오닉서커트}}&lt;br&gt;- {{국호|AR 세요짐}}&lt;br&gt;- {{국호|AR 일몰 제도}}&lt;br&gt;- {{국호|AR 프레니처}}&lt;br&gt;- {{국호|AR 세르네데}}&lt;br&gt;- {{국호|AR 헤브녀트}}&lt;br&gt;{{국호|셰헤카사 제도}}&lt;br&gt;{{국호|사흐러이스탄 부족연맹}}&lt;br&gt;{{국호|칼르신 공화국}}&lt;br&gt;{{국호|셰스카테}} [[포투]] 주&lt;br&gt;{{국호|프로트메디에르 레네자유도시연합}}&lt;br&gt;&lt;b&gt;비공식 통화&lt;/b&gt;
 | 기호 = Ȑ&lt;ref&gt;레나. 기본 단위.&lt;/ref&gt;, Ȁ&lt;ref&gt;아르데너이. 보조단위.&lt;/ref&gt;
 | 단위 = 1Ȑ, 2Ȑ, 5Ȑ, 10Ȑ, 50Ȑ, 100Ȑ, 500Ȑ&lt;br&gt;1Ȁ, 5Ȁ, 10Ȁ, 50Ȁ, 100Ȁ, 500Ȁ
 | 인쇄처 = AR 오닉서커트 기술인쇄위원회
@@ -1941,7 +2004,7 @@
 
 [[아르데너이]]&lt;small&gt;([[자텐다어]]:Ardenóy)&lt;/small&gt;는 [[AR 레나]]의 보조단위이다. [[아르데너이]]의 기호는 '''Ȁ'''로 표기하며, AR 레나의 1/1000의 가치를 가진다.
 
-1Ȑ의 가치는 5290년을 기준으로 [[AR 그룹]] 사원 1명의 1일치 평균 생활비의 절반을 표방하고 있다. 하지만 1일치 생활비를 기본 단위로 나타내었기 때문에 일상적인 거래에서는 [[아르데너이]]를 많이 사용한다.
+1Ȑ의 가치는 5290년을 기준으로 [[AR 그룹]] 사원 1명의 1일치 평균 생활비의 절반을 표방하고 있다.&lt;ref&gt;5500년 기준 1Ȑ는 약 170 유로이다.&lt;/ref&gt; 하지만 1일치 생활비를 기본 단위로 나타내었기 때문에 일상적인 거래에서는 [[아르데너이]]를 많이 사용한다.
 
 ==역사==
 
@@ -1978,7 +2041,97 @@
 
 == 각주 ==
 [[분류:화폐]]</text>
-      <sha1>ae3grfjces5vi8wf37spxusap819kcu</sha1>
+      <sha1>8m6ssj4k7kkwp2b87hho8vm4lsylur3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>셰스카테 아비실</title>
+    <ns>0</ns>
+    <id>5032</id>
+    <revision>
+      <id>28496</id>
+      <parentid>28495</parentid>
+      <timestamp>2024-01-18T15:15:25Z</timestamp>
+      <contributor>
+        <username>Junhg0211</username>
+        <id>1</id>
+      </contributor>
+      <origin>28496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1756" sha1="49nhflyiknoqb7ptf66aevf01ibe400" xml:space="preserve">{{셰스카테 문화}}
+
+{{화폐 정보
+| 이름 = 셰스카테 아비실
+| 원어 = Abicilné Scheskatté
+| 사진 = 
+| 코드 = SKA
+| 중앙은행 = 관세청 금부 [[셰스카테 은행]]
+| 사용국 = {{국호|셰스카테}}&lt;br&gt;셰스카테령 속국들
+| 기호 = Å
+| 단위 = 5Å, 10Å, 50Å&lt;br&gt;100Å, 500Å, 1000Å, 5000Å
+| 인쇄처 = 
+| 조폐국 = 
+}}
+
+[[셰스카테 아비실]]&lt;small&gt;(Abicil (né Scheskatté))&lt;/small&gt;는 [[셰스카테]]와 셰스카테의 속령국들에서 사용되는 화폐이다. 기호는 Å이다.
+아비실이라는 이름은 [[셰스카테어]]에서 돈&lt;ref&gt;abicil&lt;/ref&gt;을 뜻하는 단어에서 유래했다고 전해진다.
+
+메타적으로 1Å은 10원이나 1엔 정도의 가치를 가지고 있는 것으로 여겨진다.&lt;ref&gt;5464년&lt;/ref&gt;
+
+== 권종 ==
+
+=== 동전 ===
+
+{| class="wikitable"
+! 액면가
+! style="width: 200px;" | 도안 (앞)
+! style="width: 200px;" | 도안 (뒤)
+|-
+| 5Å
+| [[파일:5 아비실 앞면.png]]
+| [[파일:5 아비실 뒷면.png]]
+|-
+| 10Å
+| [[파일:10 아비실 앞면.png]]
+| [[파일:10 아비실 뒷면.png]]
+|-
+| 50Å
+| [[파일:50 아비실 앞면.png]]
+| [[파일:50 아비실 뒷면.png]] 
+|}
+
+=== 지폐 ===
+
+{| class="wikitable"
+! 액면가
+! style="width: 400px;" | 도안
+! 크기
+|-
+! 100Å
+| [[파일:100 아비실 앞면.png]][[파일:100 아비실 뒷면.png]]
+| 339mm x 191mm
+|-
+! 500Å
+| [[파일:500 아비실 앞면.png]][[파일:500 아비실 뒷면.png]]
+| 339mm x 191mm
+|-
+! 1000Å
+| [[파일:1000 아비실 앞면.png]][[파일:1000 아비실 뒷면.png]]
+| 339mm x 191mm
+|-
+! 5000Å
+| [[파일:5000 아비실 앞면.png]][[파일:5000 아비실 뒷면.png]]
+| 339mm x 191mm
+|}
+
+== 도보게 ==
+
+* [[셰스카테]]
+
+== 각주 ==
+[[분류:화폐]]</text>
+      <sha1>49nhflyiknoqb7ptf66aevf01ibe400</sha1>
     </revision>
   </page>
 </mediawiki>
